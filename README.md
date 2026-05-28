@@ -57,11 +57,5 @@
 - I like exploring how real-world tech systems actually work
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharatYadav05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharatYadav05&layout=compact&theme=tokyonight)
-
----
 ⭐ *If you like my work, consider giving a star to my repositories!*
