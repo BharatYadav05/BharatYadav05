@@ -123,18 +123,6 @@ Goals:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BharatYadav05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharatYadav05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -150,16 +138,6 @@ Goals:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BharatYadav05&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/BharatYadav05/BharatYadav05/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
