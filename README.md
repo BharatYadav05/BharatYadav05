@@ -8,7 +8,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Web+Developer;Cyber+Security+Learner;Full+Stack+Explorer;Open+Source+Enthusiast;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Web+Developer;Full+Stack+Explorer;Open+Source+Enthusiast;Always+Learning+Something+New..." />
 </p>
 
 <p align="center">
@@ -25,7 +25,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ✓ BCA Student
 ✓ Passionate about Technology
 ✓ Web Development
-✓ Cyber Security
 ✓ Programming
 ✓ Building Real Projects
 
