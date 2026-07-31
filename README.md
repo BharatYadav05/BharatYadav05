@@ -1,6 +1,6 @@
 <!-- Cyber Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=Bharat%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Cyber%20Security%20Learner%20|%20BCA%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FF7&height=220&section=header&text=Bharat%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20BCA%20Student&descAlignY=60"/>
 </p>
 
 <h1 align="center">
